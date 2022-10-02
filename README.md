@@ -1,5 +1,7 @@
 # basic-nft-mint-page
 
+![alt text](https://www.hizliresim.com/cnob6a3)
+
 First, copy the project to a folder on your computer.
 
 Open the folder with a code editor, come to the terminal screen and automatically install the packages by saying "npm install".
