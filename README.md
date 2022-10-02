@@ -1,6 +1,6 @@
 # basic-nft-mint-page
 
-https://www.hizliresim.com/cnob6a3.png
+https://www.hizliresim.com/cnob6a3
 
 First, copy the project to a folder on your computer.
 
